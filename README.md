@@ -7,5 +7,3 @@
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrendy-17tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammad.rendy.07@gmail.com)
-
-<img align="left" src="https://komarev.com/ghpvc/?username=Zetday&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
